@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//build_models/ensembles_tree_encode_model.py=utf-8
+encoding//build_models/find_latent_feature.py=utf-8
+encoding//build_models/xgboost_model.py=utf-8
+encoding//utility_tools/convert2csv.py=utf-8
+encoding//utility_tools/explore_dataset.py=utf-8
+encoding//utility_tools/process_dataset.py=utf-8
+encoding//utility_tools/provide_dataset.py=utf-8
